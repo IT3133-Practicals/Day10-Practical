@@ -41,7 +41,7 @@ export default function ContactUs() {
 
 const styles = StyleSheet.create({
   header: {
-    flex: 3,
+    flex: 1,
     width: "100%",
     alignItems: 'center'
   },
